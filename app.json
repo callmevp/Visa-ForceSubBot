@@ -1,0 +1,20 @@
+{
+  "name": "Visa-ForceSubBot",
+  "description": "This is a telegram bot writen in python for managing group/channel.",
+  "keywords": [
+    "telegram",
+    "eaglescout",
+    "forcesub"
+  ],
+  "repository": "https://github.com/callmevp/Visa-ForceSubBot",
+  "success_url": "https://github.com/callmevp/Visa-ForceSubBot",
+  "website": "https://github.com/callmevp/Visa-ForceSubBot",  
+  "addons": [],
+  "buildpacks": [],
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "free"
+    }
+  }  
+}
